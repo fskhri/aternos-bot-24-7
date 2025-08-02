@@ -1,6 +1,7 @@
 {
-	"ip":"fskhri.aternos.me",
-	"port": "25565",
-	"name": "AchanServer",
+	"ip":"shadowssmp.aternos.me",
+	"port": "49759",
+	"name": "ffbot",
 	"auto-night-skip":"false"
 }
+
